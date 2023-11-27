@@ -2,8 +2,8 @@
 Sandbox quickstart guides on EDS 
 
 ## Environments
-- Preview: https://main--quickstartguides-eds--adobepartnertechnicalservices.hlx.page (This will chanage in future)
-- Live: https://main--quickstartguides-eds--adobepartnertechnicalservices.hlx.live (This will chanage in future)
+- Preview: https://main--quickstartguides-eds--adobepartnertechnicalservices.hlx.page (This will change in future)
+- Live: https://main--quickstartguides-eds--adobepartnertechnicalservices.hlx.live (This will change in future)
 
 ## Installation
 
